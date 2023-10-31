@@ -1,0 +1,53 @@
+* {
+    font-family: Georgia, serif;
+  }
+  
+  
+  body {
+    text-align: center;
+    color: #333;
+  }
+  h1 {
+    font-size: 44px;
+  }
+  
+  #main {
+      margin: 0;
+      background-color: #eee;
+  }
+  
+  #title-p {
+    font-style: oblique;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #tribute-info {
+    background-color: #f0f1f2;
+  }
+  
+  ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+  li {
+    margin: 16px 0;
+  }
+  
+  #quote {
+    font-style: italic;
+  }
+  
+  #img-div {
+    background: white;
+    padding: 10px;
+    margin: 0;
+  }
