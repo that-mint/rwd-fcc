@@ -69,12 +69,12 @@ code {
     border-radius: 5px;
 }
 
-@media (max-width: 1199px) and (min-width: 769px) {
+@media (max-width: 600px) and (min-width: 0px) {
     #navbar {
-        width: 675px;
+        width: 80px;
     }
 
     #main-doc {
-        width: 633px;
+        width: 100px;
     }
 }
