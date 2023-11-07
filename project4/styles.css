@@ -133,7 +133,6 @@ nav>ul {
     justify-content: center;
     height: 125px;
     width: 20vw;
-    color: darkorange;
 }
 
 @media (max-width: 550px) {
